@@ -31,5 +31,5 @@ app.get('/scrape',async (req, res)=>{
 }); 
 
 app.get('/', (req, res) => {
-    res.send('Server startedcd ga   !')
+    res.send('Server started !')
 });
