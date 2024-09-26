@@ -1,0 +1,5 @@
+ul.no-bullets {
+    list-style-type: none; /* hate bullets */
+    padding: 0; /* Remove padding */
+    margin: 1; /* Remove margins */
+  }

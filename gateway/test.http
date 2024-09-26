@@ -1,0 +1,8 @@
+GET http://localhost:5000/scrape?url=https://idx-docs.atlassian.net/wiki/spaces/ERP/pages/198580026/Data+Dictionary HTTP/1.1
+
+##GET http://localhost:5000/ HTTP/1.1
+
+//GET http://localhost:5000/scrape? HTTP/1.1
+
+
+
